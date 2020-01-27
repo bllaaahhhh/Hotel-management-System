@@ -1,1 +1,1 @@
-# Hotel-management-System
+Hotel-management-System is a set of webpages that helps users to login, book rooms and view its status. It also includes a module for admins to view, add, modify and  remove rooms. This can be used by Hotels to efficiently manage their rooms and users to easily book them.   
